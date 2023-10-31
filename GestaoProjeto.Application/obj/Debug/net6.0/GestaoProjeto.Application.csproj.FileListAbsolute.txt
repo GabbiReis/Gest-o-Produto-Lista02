@@ -1,0 +1,30 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProduto.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProduto.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\refint\GestaoProjeto.Application.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\ref\GestaoProjeto.Application.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.deps.json
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProjeto.Application.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProduto.Domain.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\bin\Debug\net6.0\GestaoProduto.Domain.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.AssemblyReference.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.AssemblyInfoInputs.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.AssemblyInfo.cs
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.csproj.CopyComplete
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\refint\GestaoProjeto.Application.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\GestaoProjeto.Application.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProjeto.Application\obj\Debug\net6.0\ref\GestaoProjeto.Application.dll

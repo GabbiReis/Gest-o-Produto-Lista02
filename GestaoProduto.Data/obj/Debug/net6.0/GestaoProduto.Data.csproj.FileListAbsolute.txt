@@ -1,0 +1,30 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Domain.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Domain.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\refint\GestaoProduto.Data.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Gestao de Produto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\ref\GestaoProduto.Data.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.deps.json
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Data.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Domain.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\bin\Debug\net6.0\GestaoProduto.Domain.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.AssemblyReference.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.AssemblyInfoInputs.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.AssemblyInfo.cs
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.CoreCompileInputs.cache
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.csproj.CopyComplete
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\refint\GestaoProduto.Data.dll
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\GestaoProduto.Data.pdb
+C:\Users\gaby3\Downloads\GestaoProduto\GestaoProduto\src\GestaoProduto.Data\obj\Debug\net6.0\ref\GestaoProduto.Data.dll
